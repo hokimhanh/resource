@@ -1,0 +1,22 @@
+{
+  "protected_resources": {
+    "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "products": ["POST", "PUT", "PATCH", "DELETE"]
+  },
+
+  "category":[
+  {
+	  "id": 1,
+	  "name": "Thể thao"
+  },{
+	  "id": 2,
+	  "name": "Giải trí"
+  },{
+	  "id": 3,
+	  "name": "Thời sự"
+  },{
+	  "id": 4,
+	  "name": "Công nghệ"
+  }
+  ]
+}
